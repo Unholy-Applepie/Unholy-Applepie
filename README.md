@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
 <h3 align="center">I like showing computers how to see things like humans.</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2UdQGBFa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1ychv1z1eiqf4tj61vj.gif">
+
 - 🔭 I’m currently working at **Altius Strategic Consulting**
 
 - 🌱 I’m currently learning **Unity Development, Image Processing and Kotlin**
@@ -10,7 +11,7 @@
 
 - 📫 Mail me at **akshit.kalita@unb.ca**
 
-- ⚡ Fun fact **I can touch my nose with my tongue.**
+- ⚡ Fun fact **I won my first chess tournament in 3rd grade.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
