@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akshit</h1>
 <h3 align="center">I like teaching Computers to see things like us humans.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.icegif.com/wp-content/uploads/2023/08/icegif-354.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--2UdQGBFa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1ychv1z1eiqf4tj61vj.gif)">
+<img align="right" alt="Computer_vision" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2UdQGBFa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1ychv1z1eiqf4tj61vj.gif">
 - 🔭 I’m currently working at **Altius Strategic Consulting**
 
 - 🌱 I’m currently learning **Unity Development, Image Processing and Kotlin**
